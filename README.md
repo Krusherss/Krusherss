@@ -1,6 +1,6 @@
 # hey, I'm Max
 
-I run a 450-mechanism AI agent estate — hooks, skills, gates, and scripts — that governs how Claude Code behaves across sessions. Every repo here is a component extracted from that live system, not a weekend project. They run in production daily.
+I work with Claude Code daily and keep running into the same problems — stale files clobbering each other, context disappearing mid-session, no way to verify what the AI just claimed. These repos are the fixes, extracted so other people can use them too.
 
 ## enforcement and safety
 

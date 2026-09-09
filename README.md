@@ -1,6 +1,6 @@
 # hey, I'm Max
 
-I work with Claude Code daily and keep running into the same problems — stale files clobbering each other, context disappearing mid-session, no way to verify what the AI just claimed. These repos are the fixes, extracted so other people can use them too.
+Two Claude Code sessions open the same file. One saves. The other saves on top of it. Nobody gets a warning. I built a content-hash gate to catch that, then kept finding more gaps. These repos are the tools that came out of it.
 
 ## enforcement and safety
 
@@ -22,4 +22,4 @@ I work with Claude Code daily and keep running into the same problems — stale 
 
 ## writing
 
-**[governing-an-ai-agent](https://github.com/Krusherss/governing-an-ai-agent)** — lessons and contracts from governing a 450-mechanism AI agent estate
+**[governing-an-ai-agent](https://github.com/Krusherss/governing-an-ai-agent)** — what I learned letting an AI agent manage its own hooks, gates, and rollback

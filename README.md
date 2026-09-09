@@ -20,12 +20,6 @@ I run a 450-mechanism AI agent estate — hooks, skills, gates, and scripts — 
 
 **[acceptance-witness](https://github.com/Krusherss/acceptance-witness)** — OIDC-attested acceptance witness for AI agent task signoff
 
-## observability
-
-**[drift-detector](https://github.com/Krusherss/drift-detector)** — detect silent behavioral changes in LLM APIs before your users do
-
-**[verdict](https://github.com/Krusherss/verdict)** — LLM prose linter, catch AI-tells before your readers do
-
 ## writing
 
 **[governing-an-ai-agent](https://github.com/Krusherss/governing-an-ai-agent)** — lessons and contracts from governing a 450-mechanism AI agent estate
